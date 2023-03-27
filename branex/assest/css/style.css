@@ -10,8 +10,7 @@
     top: 10%;
     cursor: pointer;    
 }
-
-  
+ 
 .container {
     width: 400px;
     height: 400px;
@@ -128,10 +127,16 @@ li {
 }
 .input_red{
     width: 500px;
+    padding: 0.5rem 1.2rem;
+    border-radius: 3px 15px 3px 15px;
+    border: none;
+    outline: none;
 }
 .input_but{
     width: 500px; 
     height: 40px; 
+    border-radius: 3px 15px 3px 15px;
+    border: none;
     background-color: #1d8c84;
     color: #fff;
     font-size: 20px;
@@ -178,12 +183,14 @@ li {
 .icon_div{
     width: 100%;
     height: 240px;
+    margin-left: 12rem;
+    text-align: center;
 }
 .icon_1{
-     width: 200px;
-     height: 230px;
-     float: left;
-     margin-left:20px;
+    width: 200px;
+    height: 230px;
+    float: left;
+    margin-left:20px;
 }
 .icon_2{
     width: 200px;
